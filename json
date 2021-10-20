@@ -1,0 +1,36 @@
+[
+  {
+    "id": "xx1",
+    "title": "ANESTHESIOLOGY",
+    "img": "https://cdn-prod.medicalnewstoday.com/content/images/articles/287/287857/anesthesiologist.jpg",
+    "details": "Anesthesiology is the medical specialty concerned with the total perioperative care of patients before, during and after surgery.[1] It encompasses anesthesia, intensive care medicine, critical emergency medicine, and pain medicine.[2] A physician specialized in anesthesiology is called an anesthesiologist.[3][4][5][6] There are different ways of referring to the field of anesthesiology and physicians who specialize in it depending on the region of the world (see Terminology).The core element of the specialty is the study and use of anesthesia to safely support a patient's vital functions through the perioperative period. Since the 19th century, anesthesiology has developed from an experimental area with non-specialist practitioners using novel, untested drugs and techniques into what is now a highly refined, safe and effective field of medicine. In some countries anesthesiologists comprise the largest single cohort of doctors in hospitals,[7][8] and their role can extend far beyond the traditional role of anesthesia care in the operating room, including fields such as providing pre-hospital emergency medicine, running intensive care units, transporting critically ill patients between facilities, and prehabilitation programs to optimize patients for surgery.[7]",
+    "link": "https://en.wikipedia.org/wiki/Anesthesiology"
+  },
+  {
+    "id": "xx2",
+    "title": "CARDIAC & VASCULAR SURGERY",
+    "img": "https://images.theconversation.com/files/229670/original/file-20180727-106496-1f8coyx.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip",
+    "details": "Cardiothoracic surgery is the field of medicine involved in surgical treatment of organs inside the thoracic cavity — generally treatment of conditions of the heart (heart disease), lungs (lung disease), and other pleural or mediastinal structures.In most countries, cardiothoracic surgery is further subspecialized into cardiac surgery (involving the heart and the great vessels) and thoracic surgery (involving the lungs, esophagus, thymus, etc.); the exceptions are the United States, Australia, New Zealand, the United Kingdom, and some European Union countries such as Portugal.[1]",
+    "link": "https://en.wikipedia.org/wiki/Cardiothoracic_surgery"
+  },
+  {
+    "id": "xx3",
+    "title": "CLINICAL HEMATOLOGY",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI9LtA4tY-YtrzCAU5BTwoBWgQUBBgOOsRWSrYJurpDUrwy6SP6MbYCkEeBVw0IE0mxGw&usqp=CAU",
+    "details": "Hematology (also spelled haematology in British English) is the branch of medicine concerned with the study of the cause, prognosis, treatment, and prevention of diseases related to blood.[1][2] It involves treating diseases that affect the production of blood and its components, such as blood cells, hemoglobin, blood proteins, bone marrow, platelets, blood vessels, spleen, and the mechanism of coagulation. Such diseases might include hemophilia, blood clots (thrombus), other bleeding disorders, and blood cancers such as leukemia, multiple myeloma, and lymphoma.[3] The laboratory analysis of blood is frequently performed by a medical technologist or medical laboratory scientist.",
+    "link": "https://en.wikipedia.org/wiki/Hematology"
+  },
+  {
+    "id": "xx4",
+    "title": "Colorectal & Laparoscopic Surgery",
+    "img": "https://www.verywellhealth.com/thmb/aAEjEJe3_7HZDB_X3Op2XKq4-pw=/1997x1498/smart/filters:no_upscale()/surgeon-GettyImages-200140323-001-578ce4ab5f9b584d20ce3d9f.jpg",
+    "details": "Colorectal surgery is a field in medicine dealing with disorders of the rectum, anus, and colon.[1] The field is also known as proctology, but this term is now used infrequently within medicine and is most often employed to identify practices relating to the anus and rectum in particular.[clarification needed] The word proctology is derived from the Greek words πρωκτός proktos, meaning anus or hindparts, and -λογία -logia, meaning science or studyPhysicians specializing in this field of medicine are called colorectal surgeons or proctologists. In the United States, to become colorectal surgeons, surgical doctors have to complete a general surgery residency as well as a colorectal surgery fellowship, upon which they are eligible to be certified in their field of expertise by the American Board of Colon and Rectal Surgery or the American Osteopathic Board of Proctology. In other countries, certification to practice proctology is given to surgeons at the end of a 2–3 year subspecialty residency by the country's board of surgery.",
+    "link": "https://en.wikipedia.org/wiki/Colorectal_surgery"
+  },
+  {
+    "id": "xx5",
+    "title": "DENTAL CARE, ORTHODONTICS & MAXILLOFACIAL SURGERY",
+    "img": "https://3.bp.blogspot.com/-Nga0O1QNtnI/V6Sdh47Ec3I/AAAAAAAAJSc/RCDtNKC8388iw1ig_zoFjNs-czM3ey6XgCLcB/w640/best%2Bdental%2Bdoctor%2Bin%2Bdhaka.jpg",
+    "details": "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems (e.g. bad breath) by regular brushing of the teeth (dental hygiene) and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath. The most common types of dental disease are tooth decay (cavities, dental caries) and gum diseases, including gingivitis, and periodontitis.[1]"
+  }
+]
